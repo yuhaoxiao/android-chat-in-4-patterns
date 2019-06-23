@@ -23,7 +23,6 @@ public class ChatServer {
         ChatServer server = new ChatServer();
 
         server.startServer();
-        System.out.println("");
 
     }
 

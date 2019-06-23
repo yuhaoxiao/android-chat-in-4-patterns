@@ -23,6 +23,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".mvc0.Mvc0TalkActivity" />
+        <activity android:name=".hw1.Hw1TalkActivity" />
         <activity android:name=".frp0.Frp0TalkActivity" />
         <activity android:name=".frp3.Frp3TalkActivity"/>
         <activity android:name=".frp4.Frp4TalkActivity" />
